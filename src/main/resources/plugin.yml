@@ -1,0 +1,4 @@
+name: UHCDragon
+version: '${project.version}'
+main: org.example.tok.uhcdragon.UHCDragon
+api-version: '1.20'
